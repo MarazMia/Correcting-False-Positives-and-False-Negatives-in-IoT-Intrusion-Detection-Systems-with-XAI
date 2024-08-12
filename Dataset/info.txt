@@ -1,2 +1,6 @@
-The original dataset can be found in this link : https://www.unb.ca/cic/datasets/iotdataset-2023.html
-To access the the original train-test used in this research, please contact the authors. 
+The original CIC-IOT-2023 dataset can be found in this link : https://www.unb.ca/cic/datasets/iotdataset-2023.html
+
+The original NF-UQ-NIDS-v2 dataset can be found in this link : https://staff.itee.uq.edu.au/marius/NIDS_datasets/
+
+The original HIKARI-2021 dataset can be found in this link : https://zenodo.org/records/6463389 or https://www.kaggle.com/datasets/kk0105/allflowmeter-hikari2021
+ 
